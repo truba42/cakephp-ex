@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome AvaloQ on OpenShift</h1>
+            <h1>Welcome avaloq on OpenShift</h1>
           </hgroup>
 
 
